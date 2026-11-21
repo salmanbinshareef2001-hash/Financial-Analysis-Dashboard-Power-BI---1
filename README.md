@@ -62,6 +62,3 @@ This dashboard helps users understand revenue trends, compare performance, and d
 * **Store 1** achieved the highest revenue performance.
 * Product-level analysis helps identify top-performing categories.
 * Interactive filtering enables dynamic analysis by year, quarter, and store rank.
-
-
-If you found this project useful, feel free to star the repository and share your feedback.
